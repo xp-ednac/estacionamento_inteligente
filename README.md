@@ -9,21 +9,17 @@ Estacionamento Inteligente com Integração Interscity é uma iniciativa que vis
 
 ## Objetivos
 
-<div style="text-align: justify">
 -	Redução do tempo gasto na busca por vagas de estacionamento;
 -	Contribuição para a redução do trânsito e da poluição do ar nas cidades; 
 -	Coleta de dados valiosos para análise de tendências de uso do estacionamento;
 -	Demonstrar como a integração de tecnologias como IoT podem ser aplicadas de forma prática e benéfica para resolver desafíos urbanos.
-</div>
 
 ## Recursos do Projeto
 
-<div style="text-align: justify">
 -	O Microcontrolador ESP32
 -	APIs da Plataforma InterSCity que receberá os dados simulados do ESP32;
 -	A plataforma InterSCity que armazenará esses dados e permitirá a análise e visualização das informações simuladas de ocupação das vagas;
 -	Computadores, protoboard, jumpers, resistores são os recursos de hardware usados para desenvolver, testar e programar o ESP32.
-</div>
 
 ## Equipe
 
