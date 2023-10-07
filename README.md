@@ -1,6 +1,6 @@
 # Estacionamento Inteligente
 Estacionamento Inteligente com Integração Interscity 
----
+
 ## Sobre o Projeto
 Estacionamento Inteligente com Integração Interscity é uma iniciativa que visa transformar a maneira como os estacionamentos urbanos são gerenciados e como os motoristas interagem com eles, por meio do desenvolvimento de uma simulação de rede de computadores para um sistema de estacionamento inteligente que integra um microcontrolador, o qual envia os dados para a plataforma Interscity, atualizando o status de ocupação das vagas. Dessa forma, busca-se otimizar a alocação de vagas, melhorar a experiência dos usuários e contribuir para a redução do congestionamento urbano. Neste projeto, exploraremos como a integração desses componentes pode criar uma solução inteligente e eficaz para o estacionamento nas cidades, beneficiando tanto os motoristas quanto a gestão urbana.
 
@@ -24,7 +24,7 @@ Estacionamento Inteligente com Integração Interscity é uma iniciativa que vis
 - Arthur Sampaio.
 
 # Documentação
----
+
 - [InterSCity] (https://interscity.org/software/interscity-platform/)
 - [API InterSCity](https://gitlab.com/interscity/interscity-platform/resource-adaptor/-/wikis/home)
 - [DataSheet: ESP32](https://pdf1.alldatasheet.com/datasheet-pdf/view/1243003/ESPRESSIF/ESP32.html)
