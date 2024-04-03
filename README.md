@@ -22,10 +22,10 @@ Estacionamento Inteligente com Integração Interscity é uma iniciativa que vis
 -	Computadores, protoboard, jumpers, resistores são os recursos de hardware usados para desenvolver, testar e programar o ESP32.
 
 ## Equipe
-- Adrielle Campelo Cunha;
-- Alysson Pereira;
-- Arthur Sampaio.
-- Daniel Campos Galdez;
+- Antonino Medeiros;
+- Edna Cristina Durans;
+- Thales Mendes;
+- Vitor Nunes;
 
 # Documentação
 
