@@ -4,7 +4,7 @@ from datetime import datetime
 from paho.mqtt import client as mqtt_client
 
 # Configurações de conexão ao Broker
-broker = 'mqtt.eclipseprojects.io'
+broker = 'broker.hivemq.com'
 port = 1883
 temperature_topic = "room/temperature"
 humidity_topic = "room/humidity"
